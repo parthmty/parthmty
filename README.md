@@ -1,4 +1,6 @@
-<img align="left" src="https://raw.githubusercontent.com/parthmty/parthmty/main/res/github-about-me-text.svg" height="150px">
-<p> My name is <strong>Partha Maity</strong> ✌ </p>
-<p> I am a 22 year old CS student 👨‍🎓 </p>
-<p> I am currently learning --> Git, Python and JavaScript 🔰 </p>
+<h3> 👋 Hey there! </h3>
+<p>I'm a computer science student eager to become a web developer.</p> 
+<ul>
+    <li>🥽 Currently diving deep into ReactJS and NodeJS</li>
+  <li>⛄ Looking forward to creating fun and engaging digital experiences!</li>
+</ul>
